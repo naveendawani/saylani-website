@@ -368,3 +368,575 @@ margin-left: 60px;
     border-radius: 12px;
     background-color: #99ca3c;
 }
+.quiy {
+    background-color: #424242;
+}
+
+
+
+.talk {
+    width: 280px;
+}
+
+.last-borde {
+     background-color:  #424242;     
+    display: flex;
+    margin-top: 300px;
+}
+
+.make-borde {
+      margin-top: 5%;
+      margin-left: 50px;
+     /* background-color:  #424242;     */
+} 
+
+.function {
+    margin-top: 20px;
+}
+
+
+.make {
+    width: 45px;
+    height: 45px;
+    border-radius: 16px;
+    margin-left: 5px;
+    
+}
+
+.wet { 
+    /* margin-top: 12px; */
+    width: 45px;
+    height: 45px;
+    border-radius: 16px;
+    margin-left: 12px;
+}
+
+
+
+.pet {
+    /* margin-top: 12px; */
+    width: 45px;
+    height: 45px;
+    border-radius: 16px;
+    margin-left: 12px;
+ }
+
+
+ .cut { 
+    /* margin-top: 12px; */
+    width: 45px;
+    height: 45px;
+    border-radius: 16px;
+    margin-left: 12px;
+ }
+
+
+
+
+ .wouk {
+     font-size: 1.3em; 
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 5%;
+  }
+
+
+  .wouk h5 { 
+    padding: 6px;
+  }
+
+
+.foy {
+    font-size: 1.3em;
+    margin-top: 5%;
+    padding: 28px;
+    margin-left: 40px;
+}
+
+
+.foy h5 { 
+    padding: 6px;
+  }
+
+
+
+.olx {
+    font-size: 1.3em;
+    margin-top: 5%;
+    padding: 28px;
+    margin-left: 30px;
+}
+
+.olx h5 { 
+    padding: 3px;
+  }
+
+  .app {
+    margin: auto;
+  }
+
+  .app img {
+     display: flex; 
+     justify-content: center; 
+    width: 150px;
+    position: relative;
+    top: 10px;
+    margin: auto;
+  }
+
+  .ear {
+    background-color: #424242;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .final {
+    background-color: #424242;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+
+
+
+
+
+  @media only screen and  (max-width: 600px) {
+    .contact{
+    display: flex;
+    background-color: #eeeeee;
+     color: #f0f8ff;
+    }
+
+     .contact>a {
+        margin-top: 30px;
+        color: #424242;
+        padding-left: 3px;
+        display: flex;
+        width: 430px;
+        font-size: 0.9em; 
+    }
+
+    .contact img {
+        margin-top: 28px;
+    width: 40px;
+    height: 20px;
+    }
+
+    .contact>span>p {
+        background-color: white;
+        margin-right: 40px;
+        margin-top: 30px;
+        font-size: 1.2em;
+    }
+    
+
+     .color>a>p {
+        padding: 10px;
+        margin-top: 10px;
+        color: #99ca3c;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+
+    .user {
+        width: 500px;
+        margin-left: 15px;
+    } 
+    
+    
+     .user-2 {
+        width: 500px;
+        margin-top: 12px;
+        margin-left: 15px;
+    }
+    
+    
+    .fark {
+        width: 500px;
+        display: inline;
+    }
+    
+
+
+    .container>ul>a>img {
+        width: 220px;
+        margin-left: -50px    ;
+    }
+
+
+    .container>ul>a>img {
+        width: 220px;
+    }
+    
+    .container>ul {
+        display: inline;
+        padding: 50px;
+    } 
+
+    .york{
+        display: flex;
+    
+    }
+    
+    .log-2{ 
+        display: inline;
+        flex-wrap: wrap; 
+        margin-top: 150px;
+        margin-left: 80px;
+        /* font-weight:bold; 
+        /* width: 150px; */
+        position: relative;
+        
+    }
+    
+    .log-2>h1{
+        margin-top: -130px;
+        margin-left: -50px;
+        font-size: 2.1em;
+        width: 100%;
+        height: 100px;
+    }
+    .log-2>h2 {
+        font-size: 1.3em;
+        margin-left: -50px;
+        width: 100%;
+        height: 100px;
+    }
+    
+    .log-2>p {
+        font-size: 0.7em; 
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: -50px;
+    }
+    
+    .saylani-image {
+        display: flex;
+        margin-top: 50px;
+        width: 250px;
+    }
+     
+    .log-2>button {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-left: -50px;
+    width: 160px;
+    height: 50px;
+    }   
+    
+    .log-2>h2>span {
+        color: #0066b3;
+    }
+    
+    
+    .hello>h1 {
+        text-align: center;
+    }
+
+
+
+    .classes {
+        /* display: flex; */
+        /* justify-content: space-evenly; */
+        width: 100%;
+        margin-top: 50px;
+        border-radius: 200px;
+        display: inline;
+    }
+    
+    
+    .image1  {
+        margin-top: 50px;
+        margin-left: 30px;
+         width: 500px;
+        border-radius: 12px; 
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+    
+     }
+    
+    
+    
+     .image2  {
+        margin-top: 40px;
+        margin-left: 30px;
+        width: 500px;
+        border-radius: 12px;
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+     }
+    
+    
+     .image3  {
+        /* background-color: #f0fcdb; */
+        margin-top: 50px;
+        margin-left: 30px;
+         width: 500px;
+        border-radius: 12px;
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+     }
+    
+     .image4  {
+        /* background-color: #f0fcdb; */
+        margin-top: 50px;
+        margin-left: 30px;
+         width: 500px;
+        border-radius: 12px;
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+     }
+     .image5  {
+        /* background-color: #f0fcdb; */
+        margin-top: 50px;
+        margin-left: 30px;
+         width: 500px;
+        border-radius: 12px;
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+     }
+    
+     .image6  {
+        /* background-color: #f0fcdb; */
+        margin-top: 50px;
+        margin-left: 30px;
+         width: 500px;
+        border-radius: 12px;
+        background-color: #f0fcdb;
+        text-align: center;
+        padding: 15px;
+        font-size: 0.9em;
+    }
+    
+    
+    .card-img-top{
+        width: 500px; 
+         height: 300px;
+         border-radius: 10px;
+         margin-left: -20px;
+     }
+    
+    
+    
+     .card {
+        height: 12px;
+        width: 12px;
+        margin-top: 30px; 
+         margin-left: 30px;
+         /* background-color: #99ca3c; */
+         color: white;
+         display: inline;
+    }
+    
+    .mark1{
+    margin-left: 60px;
+    }
+    
+    
+    
+    .card-title {
+        display: flex;
+        margin-top: -90px;
+        font-size: 1.4em;
+        margin-left: -12px;
+        color: white;
+        /* background-color: #99ca3c; */
+    }
+    
+    
+    .card-text { 
+        width: 480px;
+        height: 45px;
+        margin-left: -12px;
+        border-radius: 12px;
+        background-color: #99ca3c;
+    }
+    
+    
+    .mark2 {
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+    
+    
+    .card-img-top2{
+        width: 500px;
+         height: 300px;
+         border-radius: 10px;
+         margin-left: 10px;
+     }
+    
+    
+     .card-title2 {
+        display: flex;
+        margin-top: -90px;
+        font-size: 1.4em;
+        margin-left: 20px;
+        color: white;
+    }
+    
+    
+    .card-text2 { 
+        width: 480px;
+        height: 50px;
+        margin-left: 20px;
+        border-radius: 12px;
+        background-color: #99ca3c;
+    }
+    
+    
+    .mark3{
+       margin-left: 30px;
+       margin-top: 40px;
+    }
+    
+    
+    .card-img-top3{
+        width: 500px; 
+         height: 300px;
+         border-radius: 10px;
+         margin-left: 10px;
+     }
+    
+    
+     .card-title3 {
+        display: flex;
+        margin-top: -90px;
+        font-size: 1.4em;
+        margin-left: 20px;
+        color: white;
+    }
+    
+    
+    .card-text3 { 
+        width: 480px;
+        height: 50px;
+        margin-left: 20px;
+        border-radius: 12px;
+        background-color: #99ca3c;
+    }
+
+
+    .quiy {
+        background-color: #424242;
+    }
+    
+
+
+    .talk {
+        margin-top: 100px;
+        width: 500px;
+        margin-left: -120px;
+    }
+    
+    .last-borde {
+         background-color:  #424242;     
+        display: inline;
+        align-items: center;
+        margin-top: 300px;
+    }
+    
+    .make-borde {
+        /* width: 100%;
+        height: 150px; */
+        margin-left: 150px;
+        margin-top: 12px;
+    } 
+    
+
+    
+     .wouk {
+         justify-items: center;
+         font-size: 1.3em;
+         margin-top: 18px;
+      }
+    
+    
+      .wouk h5 { 
+        display: flex;
+        justify-content: center;
+        margin-left: -90px;
+        padding: 12px;
+        color: #424242;
+        /* background-color:  #424242; */
+      }
+    
+    
+    .foy {
+        font-size: 1.3em;
+        margin-top: -50px;
+        padding: 28px;
+        margin-left: 40px;
+        color: #424242;
+    }
+    
+    
+    .foy h5 { 
+        display: flex;
+        justify-content: center;
+        margin-left: -90px;
+        padding: 12px;
+        color: #424242;
+        /* background-color:  #424242; */
+      }
+    
+    
+    
+    .olx {
+        font-size: 1.0em;
+        margin-top: -60px;
+        padding: 28px;
+        margin-left: 30px;
+    }
+    
+    .olx h5 { 
+        display: flex;
+        justify-content: center;
+        margin-left: -90px;
+        color: #424242;
+        /* background-color:  #424242; */
+      }
+    
+    
+      .app {
+        display: flex;
+        justify-content: center;
+        margin-left: -50px;
+
+      }
+    .like {
+        font-size: 1.6em;
+        font-weight: bold;
+    }
+  
+    .ear {
+        display: flex;
+        margin-left: -50px;
+        justify-content: center;
+        margin-top: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+    
+      .final {
+        display: flex;
+        margin-left: -50px;
+        justify-content: center;
+        margin-top: 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+  }
