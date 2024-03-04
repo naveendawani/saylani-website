@@ -1,0 +1,180 @@
+* {
+    /* padding: 0px; */
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+ .contact{
+    display: flex;
+    /* justify-content: ; */
+    background-color: #eeeeee;
+    color: #f0f8ff;
+}
+
+.contact>a {
+    color: #424242; 
+    font-size: 0.9em; 
+}
+
+.contact>span>p {
+    color: #424242;
+    background-color: #ffffff;
+    /* margin-right: 40px;
+    margin-top: 30px; */
+    font-size: 1.2em;
+}
+
+.contact img {
+width: 40px;
+height: 20px;
+}
+
+p {
+    display: flex;
+    justify-content: right;
+
+}
+
+.container {
+    
+    padding: 12px;
+    border: 1px solid ;
+    font-weight: bold;
+    position: fixed;
+    width: 100%;
+    z-index: 10px;
+    background-color: white;
+
+
+}
+
+.container a {
+    text-decoration: none;
+ }
+.container>ul>a>img {
+    width: 220px;
+}
+
+.container>ul {
+     display: flex;
+    justify-content: space-evenly; 
+    padding: 3px;
+    list-style-type: none;
+    position: sticky;
+    z-index: 10;
+} 
+
+.container>ul>a>li {
+    display: flex;
+    color: black;
+    /* list-style-type: none; */
+    padding: 10px;
+    margin-top: 10px;
+}
+
+ span {
+    color: #0066b3;
+}
+
+
+ .container>ul>li>p {
+    color:#99ca3c;
+} 
+   .container>button {
+    text-align: center;
+    transition: transform 0.25s;
+} 
+.color>a>p {
+    padding: 10px;
+    margin-top: 10px;
+    color: #99ca3c;
+}
+  .container>ul>li>button:hover {
+    transition: transform 1.0;
+    background-color: #99ca3c;
+} 
+
+ .user {
+    background-color: #0066b3;
+    color: #f0f8ff;
+    width: 130px;
+    height: 55px;
+    border-radius: 5px;
+    margin-right: 10px;
+     transition: transform 0.25s 
+} 
+
+
+ .user-2 {
+    background-color: #99ca3c;
+    color: #f0f8ff;
+    width: 130px;
+    height: 55px;
+     border-radius: 6px;
+    transition: transform 0.25s  
+}
+
+
+.fark {
+    display: flex;
+    color: #eeeeee;
+    background-color: aliceblue;
+    
+}
+
+.york{
+    display: flex;
+
+}
+
+.log-2{ 
+    display: inline;
+    flex-wrap: wrap; 
+    margin-top: 150px;
+    margin-left: 80px;
+    /* font-weight: bold; 
+    /* width: 150px; */
+    position: relative;
+    
+}
+
+.log-2>h1{
+    font-size: 2.4em;
+    width: 50%;
+    height: 100px;
+}
+.log-2>h2 {
+    font-size: 1.6em;
+    height: 50px;
+}
+
+.log-2>p {
+    font-size: 1.1em;
+    width: 80%; 
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+}
+
+.saylani-image {
+    display: flex;
+    margin-top: 100px;
+    width: 500px;
+    /* justify-content: end; */
+}
+ 
+.log-2>button {
+background-color: #ffffff;
+border-radius: 8px;
+width: 200px;
+height: 55px;
+}   
+
+
+
+.log-2>h1>span {
+    color: #99ca3c;
+}
+
+.log-2>h2>span {
+    color: #0066b3;
+}
